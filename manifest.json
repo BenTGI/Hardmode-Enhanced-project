@@ -1,0 +1,10 @@
+{
+  "Name": "OneHitKO",
+  "Author": "BenTGI",
+  "Version": "1.0.0",
+  "Description": "Sets your max Health to one",
+  "UniqueID": "BenTGI.OneHitKO",
+  "EntryDll": "OneHitKO.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
